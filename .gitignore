@@ -3,8 +3,8 @@
 out/
 obj/
 bin/
-*.tar.gz
-*.tar.bz2
+# *.tar.gz
+# *.tar.bz2
 *.out
 *.o
 *.exe

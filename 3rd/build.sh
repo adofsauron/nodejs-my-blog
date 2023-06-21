@@ -1,8 +1,8 @@
 #!/bin/bash
 
-rm -rf nginx-release-1.25.1
+rm -rf ./nginx-release-1.25.1
 
-tar -xzvf nginx-release-1.25.1.tar.gz
+tar -xzvf ./nginx-release-1.25.1.tar.gz
 
 cd nginx-release-1.25.1
 
