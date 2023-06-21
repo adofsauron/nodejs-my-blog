@@ -54,7 +54,7 @@ async function initializeOptions() {
       '[{"key": "Meta","value": [{"link":"/","text":"首页"},{"link":"/archive","text":"存档"},{"link":"/page/links","text":"友链"},{"link":"/page/about","text":"关于"}]},{"key": "其他","value": [{"link":"/admin","text":"后台管理"}, {"link":"https://github.com/songquanpeng/blog","text":"源码地址"}, {"link":"/feed.xml","text":"订阅博客"}]}]'
     ],
     ['port', '3000'],
-    ['site_name', '站点名称'],
+    ['site_name', '悟世科技'],
     ['theme', 'bulma'],
     ['index_page_content', ''],
     ['use_cache', 'true']
