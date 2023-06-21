@@ -8,4 +8,4 @@ bin/
 *.out
 *.o
 *.exe
-node_modules/
+# node_modules/
