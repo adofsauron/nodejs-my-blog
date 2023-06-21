@@ -51,7 +51,7 @@ async function initializeOptions() {
     ['motto', '我的格言'],
     [
       'nav_links',
-      '[{"key": "Meta","value": [{"link":"/","text":"首页"},{"link":"/archive","text":"存档"},{"link":"/page/links","text":"友链"},{"link":"/page/about","text":"关于"}]},{"key": "其他","value": [{"link":"/admin","text":"后台管理"}, {"link":"https://github.com/songquanpeng/blog","text":"源码地址"}, {"link":"/feed.xml","text":"订阅博客"}]}]'
+      '[{"key": "Meta","value": [{"link":"/","text":"首页"},{"link":"/archive","text":"存档"},{"link":"/page/links","text":"友链"},{"link":"/page/about","text":"关于"}]},{"key": "其他","value": [{"link":"/admin","text":"后台管理"}, {"link":"https://adofsauron.blog.csdn.net/","text":"源码地址"}, {"link":"/feed.xml","text":"订阅博客"}]}]'
     ],
     ['port', '3000'],
     ['site_name', '悟世科技'],
